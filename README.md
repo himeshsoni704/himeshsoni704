@@ -1,14 +1,14 @@
-# Hi, I'm Himesh 👋
+# Hi, I'm Himesh 
 
 BTech student passionate about **software development, IoT, and AI-assisted tools**.  
-I build practical projects in **Python, Java, and TypeScript**, focusing on **real-world problem solving and automation**.
+I build practical projects in **Python, Java, and C**, focusing on **real-world problem solving and automation**.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, Java, TypeScript
+- **Languages:** Python, Java, TypeScript, Arduino
 - **Frameworks/Libraries:** React, Flask
-- **Tools:** Arduino, TensorFlow Lite, Telegram API
+- **Tools:** Arduino, TensorFlow Lite, Telegram API, Twilio Calling API
 
 ---
 
